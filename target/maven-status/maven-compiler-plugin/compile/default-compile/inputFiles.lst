@@ -1,0 +1,12 @@
+/home/kaza/Workspace/forge/src/main/java/com/forge/carbon/CarbonEstimator.java
+/home/kaza/Workspace/forge/src/main/java/com/forge/suggestions/OptimizationSuggester.java
+/home/kaza/Workspace/forge/src/main/java/com/forge/cli/EstimateCommand.java
+/home/kaza/Workspace/forge/src/main/java/com/forge/ForgeMain.java
+/home/kaza/Workspace/forge/src/main/java/com/forge/analyzer/AnalysisResult.java
+/home/kaza/Workspace/forge/src/main/java/com/forge/cli/AnalyzeCommand.java
+/home/kaza/Workspace/forge/src/main/java/com/forge/carbon/EstimateResult.java
+/home/kaza/Workspace/forge/src/main/java/com/forge/cli/SuggestCommand.java
+/home/kaza/Workspace/forge/src/main/java/com/forge/suggestions/Suggestion.java
+/home/kaza/Workspace/forge/src/main/java/com/forge/analyzer/CodeAnalyzer.java
+/home/kaza/Workspace/forge/src/main/java/com/forge/suggestions/SuggestionResult.java
+/home/kaza/Workspace/forge/src/main/java/com/forge/analyzer/Issue.java
