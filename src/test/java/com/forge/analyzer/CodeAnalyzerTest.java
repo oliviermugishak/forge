@@ -172,4 +172,6 @@ class CodeAnalyzerTest {
         assertEquals(2, result.getFilesAnalyzed());
         assertFalse(result.getIssues().isEmpty());
     }
+
+
 }

@@ -129,17 +129,15 @@ public class CodeAnalyzer {
         
         private int getNestingLevel(Statement stmt) {
             int level = 0;
-            Statement current = stmt;
+            Node current = stmt;
             while (current.getParentNode().isPresent()) {
                 Node parentNode = current.getParentNode().get();
                 if (parentNode instanceof ForStmt || parentNode instanceof WhileStmt || parentNode instanceof DoStmt) {
                     level++;
-                    current = (Statement) parentNode;
-                } else {
-                    break;
                 }
+                current = parentNode;
             }
-            return level;
+            return level + 1; // Add 1 because the current statement is also a loop
         }
     }
 }

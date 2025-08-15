@@ -1,0 +1,13 @@
+com/forge/suggestions/OptimizationSuggester.class
+com/forge/cli/AnalyzeCommand.class
+com/forge/carbon/CarbonEstimator.class
+com/forge/cli/EstimateCommand.class
+com/forge/analyzer/AnalysisResult.class
+com/forge/analyzer/Issue.class
+com/forge/analyzer/CodeAnalyzer.class
+com/forge/analyzer/CodeAnalyzer$InefficiencyVisitor.class
+com/forge/carbon/EstimateResult.class
+com/forge/suggestions/Suggestion.class
+com/forge/suggestions/SuggestionResult.class
+com/forge/ForgeMain.class
+com/forge/cli/SuggestCommand.class
